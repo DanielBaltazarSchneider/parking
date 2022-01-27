@@ -1,0 +1,1 @@
+enum Moviment { entry, exit }
